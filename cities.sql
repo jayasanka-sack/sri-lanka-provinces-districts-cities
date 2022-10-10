@@ -1,4 +1,4 @@
-
+i
 -- --------------------------------------------------------
 
 --
@@ -594,7 +594,7 @@ INSERT INTO `cities` (`id`, `district_id`, `name_en`, `name_si`, `name_ta`, `sub
 (565, 7, 'Raddolugama', NULL, NULL, NULL, NULL, NULL, '11400', 7.140656, 79.898198),
 (566, 7, 'Ragama', NULL, NULL, NULL, NULL, NULL, '11010', 7.025281, 79.917386),
 (567, 7, 'Ruggahawila', NULL, NULL, NULL, NULL, NULL, '11142', 7.0667, 80.1167),
-(568, 7, 'Seeduwa', NULL, NULL, NULL, NULL, NULL, '11410', 7.132059, 79.885024),
+(568, 7, 'Seeduwa', 'සීදූව ', NULL, NULL, NULL, NULL, '11410', 7.132059, 79.885024),
 (569, 7, 'Siyambalape', NULL, NULL, NULL, NULL, NULL, '11607', 6.964545, 79.986406),
 (570, 7, 'Talahena', NULL, NULL, NULL, NULL, NULL, '11504', 7.1667, 79.8167),
 (571, 7, 'Thambagalla', NULL, NULL, NULL, NULL, NULL, '60584', 7.1167, 80.1333),
@@ -990,7 +990,7 @@ INSERT INTO `cities` (`id`, `district_id`, `name_en`, `name_si`, `name_ta`, `sub
 (961, 12, 'Kandaketya', NULL, NULL, NULL, NULL, NULL, '90020', 7.2333, 80.4667),
 (962, 12, 'Kannattota', NULL, NULL, NULL, NULL, NULL, '71372', 7.081348, 80.275311),
 (963, 12, 'Karagahinna', NULL, NULL, NULL, NULL, NULL, '21014', 7.3604, 80.3832),
-(964, 12, 'Kegalle', NULL, NULL, NULL, NULL, NULL, '71000', 7.249349, 80.351662),
+(964, 12, 'Kegalle', 'කෑගල්ල ', NULL, NULL, NULL, NULL, '71000', 7.249349, 80.351662),
 (965, 12, 'Kehelpannala', NULL, NULL, NULL, NULL, NULL, '71533', 7.161131, 80.519539),
 (966, 12, 'Ketawala Leula', NULL, NULL, NULL, NULL, NULL, '20198', 7.1167, 80.35),
 (967, 12, 'Kitulgala', NULL, NULL, NULL, NULL, NULL, '71720', 6.9944, 80.4114),
@@ -1169,7 +1169,7 @@ INSERT INTO `cities` (`id`, `district_id`, `name_en`, `name_si`, `name_ta`, `sub
 (1140, 14, 'Madahapola', NULL, NULL, NULL, NULL, NULL, '60552', 7.711952, 80.499003),
 (1141, 14, 'Madakumburumulla', NULL, NULL, NULL, NULL, NULL, '60209', 7.44599, 79.994062),
 (1142, 14, 'Madalagama', NULL, NULL, NULL, NULL, NULL, '70158', 7.353398, 80.314033),
-(1143, 14, 'Madawala Ulpotha', NULL, NULL, NULL, NULL, NULL, '21074', 7.703, 80.5051),
+(1143, 14, 'Madawala Ulpotha', NULL,i NULL, NULL, NULL, NULL, '21074', 7.703, 80.5051),
 (1144, 14, 'Maduragoda', NULL, NULL, NULL, NULL, NULL, '60532', 7.5667, 80.5333),
 (1145, 14, 'Maeliya', NULL, NULL, NULL, NULL, NULL, '60512', 7.734847, 80.4079),
 (1146, 14, 'Magulagama', NULL, NULL, NULL, NULL, NULL, '60221', 7.542895, 80.090321),
@@ -1546,7 +1546,7 @@ INSERT INTO `cities` (`id`, `district_id`, `name_en`, `name_si`, `name_ta`, `sub
 (1518, 20, 'Keerthi Bandarapura', NULL, NULL, NULL, NULL, NULL, '22274', 7.1108, 80.8581),
 (1519, 20, 'Kiribathkumbura', NULL, NULL, NULL, NULL, NULL, '20442', 7.1108, 80.7547),
 (1520, 20, 'Kotiyagala', NULL, NULL, NULL, NULL, NULL, '91024', 6.784171, 80.68557),
-(1521, 20, 'Kotmale', NULL, NULL, NULL, NULL, NULL, '20560', 7.0214, 80.5942),
+(1521, 20, 'Kotmale','කොත්මලේ ', NULL, NULL, NULL, NULL, '20560', 7.0214, 80.5942),
 (1522, 20, 'Kottellena', NULL, NULL, NULL, NULL, NULL, '22040', 6.893287, 80.50215),
 (1523, 20, 'Kumbalgamuwa', NULL, NULL, NULL, NULL, NULL, '22272', 7.109883, 80.853852),
 (1524, 20, 'Kumbukwela', NULL, NULL, NULL, NULL, NULL, '22246', 7.055729, 80.887479),
