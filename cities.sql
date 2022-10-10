@@ -990,7 +990,7 @@ INSERT INTO `cities` (`id`, `district_id`, `name_en`, `name_si`, `name_ta`, `sub
 (961, 12, 'Kandaketya', NULL, NULL, NULL, NULL, NULL, '90020', 7.2333, 80.4667),
 (962, 12, 'Kannattota', NULL, NULL, NULL, NULL, NULL, '71372', 7.081348, 80.275311),
 (963, 12, 'Karagahinna', NULL, NULL, NULL, NULL, NULL, '21014', 7.3604, 80.3832),
-(964, 12, 'Kegalle', NULL, NULL, NULL, NULL, NULL, '71000', 7.249349, 80.351662),
+(964, 12, 'Kegalle', 'කෑගල්ල ', NULL, NULL, NULL, NULL, '71000', 7.249349, 80.351662),
 (965, 12, 'Kehelpannala', NULL, NULL, NULL, NULL, NULL, '71533', 7.161131, 80.519539),
 (966, 12, 'Ketawala Leula', NULL, NULL, NULL, NULL, NULL, '20198', 7.1167, 80.35),
 (967, 12, 'Kitulgala', NULL, NULL, NULL, NULL, NULL, '71720', 6.9944, 80.4114),
