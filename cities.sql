@@ -1,4 +1,4 @@
-
+i
 -- --------------------------------------------------------
 
 --
@@ -594,7 +594,7 @@ INSERT INTO `cities` (`id`, `district_id`, `name_en`, `name_si`, `name_ta`, `sub
 (565, 7, 'Raddolugama', NULL, NULL, NULL, NULL, NULL, '11400', 7.140656, 79.898198),
 (566, 7, 'Ragama', NULL, NULL, NULL, NULL, NULL, '11010', 7.025281, 79.917386),
 (567, 7, 'Ruggahawila', NULL, NULL, NULL, NULL, NULL, '11142', 7.0667, 80.1167),
-(568, 7, 'Seeduwa', NULL, NULL, NULL, NULL, NULL, '11410', 7.132059, 79.885024),
+(568, 7, 'Seeduwa', 'සීදූව ', NULL, NULL, NULL, NULL, '11410', 7.132059, 79.885024),
 (569, 7, 'Siyambalape', NULL, NULL, NULL, NULL, NULL, '11607', 6.964545, 79.986406),
 (570, 7, 'Talahena', NULL, NULL, NULL, NULL, NULL, '11504', 7.1667, 79.8167),
 (571, 7, 'Thambagalla', NULL, NULL, NULL, NULL, NULL, '60584', 7.1167, 80.1333),
