@@ -1844,7 +1844,7 @@ INSERT INTO `cities` (`id`, `district_id`, `name_en`, `name_si`, `name_ta`, `sub
 (1816, 24, 'Mawadichenai', NULL, NULL, NULL, NULL, NULL, '31238', 8.4458, 81.2875),
 (1817, 24, 'Mullipothana', NULL, NULL, NULL, NULL, NULL, '31312', 8.3683, 81.0281),
 (1818, 24, 'Mutur', NULL, NULL, NULL, NULL, NULL, '31200', 8.45, 81.2667),
-(1819, 24, 'Neelapola', NULL, NULL, NULL, NULL, NULL, '31228', 8.4458, 81.2875),
+(1819, 24, 'Neelapola', 'නීලපොල', NULL, NULL, NULL, NULL, '31228', 8.4458, 81.2875),
 (1820, 24, 'Nilaveli', 'නිලාවැලි', NULL, NULL, NULL, NULL, '31010', 8.658756, 81.148516),
 (1821, 24, 'Pankulam', NULL, NULL, NULL, NULL, NULL, '31034', 8.6333, 81.0167),
 (1822, 24, 'Pulmoddai', 'පුල්මුඩේ', NULL, NULL, NULL, NULL, '50567', 8.9333, 80.9833),
