@@ -401,7 +401,7 @@ INSERT INTO `cities` (`id`, `district_id`, `name_en`, `name_si`, `name_ta`, `sub
 (372, 5, 'Sri Jayawardenepura', 'ශ්‍රී ජයවර්ධනපුර', NULL, NULL, NULL, NULL, '10100', 6.8897, 79.9359),
 (373, 5, 'Talawatugoda', 'තලවතුගොඩ', NULL, NULL, NULL, NULL, '10116', 6.8692, 79.9411),
 (374, 5, 'Tummodara', 'තුම්මෝදර', NULL, NULL, NULL, NULL, '10682', 6.9061, 80.1353),
-(375, 5, 'Waga', වගා, NULL, NULL, NULL, NULL, '10680', 6.9061, 80.1353),
+(375, 5, 'Waga', වග, NULL, NULL, NULL, NULL, '10680', 6.9061, 80.1353),
 (376, 5, 'Colombo 6', 'කොළඹ 6', 'கொழும்பு 6', 'Wellawatta', 'වැල්ලවත්ත', 'வெள்ளவத்தை', '00600', 6.874657, 79.860483),
 (377, 6, 'Agaliya', 'අගලිය', NULL, NULL, NULL, NULL, '80212', 6.1833, 80.2),
 (378, 6, 'Ahangama', 'අහංගම', NULL, NULL, NULL, NULL, '80650', 5.970765, 80.370204),
